@@ -15,8 +15,8 @@ The data set was in a csv format, converted into an excel file, which was were t
 2) Four products (Bookcases, Supplies, Tables, and Machines) are the the least performing products.
 3) The month of November is seen to have the highest sales while April saw the least.
 4) In terms of profit generation, March generated the most Profit throughout the year while April was at loss.
-5) March and August are the top performing months in terms of sales.
-6) While the month if November supercede all other months in sales.
+5) March and August are the top performing months in terms of profit.
+6) While the month of November supercede all other months in sales.
 
 
 
