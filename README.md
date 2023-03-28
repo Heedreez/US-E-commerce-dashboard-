@@ -8,7 +8,7 @@ What is the overall trend in US E-commerce market place.
 Excel and Power BI.
 
 # ACTION: 
-The data set was in a csv format, converted into an excel file, which was where the cleaning and exploratory analysis was done. The excel file was imported into Power BI to bring the analysis and findings into life.
+The data set was in a csv format, converted into an excel file, which was were the cleaning and exploratory analysis was done. The excel file was imported into Power BI to bring the analysis and findings to life.
 
 # RESULTS:
 1) Analysing the category section “Technology" leads in both sales and profit.
